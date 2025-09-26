@@ -4,7 +4,7 @@ _Updated: 2025-09-26 08:55 UTC_
 
 ## Browse
 
-- [Weekly Reports](/weekly-reports/)
+- [Weekly Reports](docs/weekly-reports/)
 
 ---
 
