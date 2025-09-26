@@ -4,3 +4,6 @@
 - Adviser: Ilídio Oliveira (ico@ua.pt)
 
 This is my thesis diary, here I have daily entries and then a weekly report.
+
+https://github.com/Pedro3Azevedo/the-playground
+
